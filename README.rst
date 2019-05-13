@@ -1,4 +1,3 @@
-`<manual.pdf>`_
 
 Publishing sphinx-generated docs on github
 ------------------------------------------
